@@ -1,0 +1,54 @@
+
+An error occurred while loading ./include.
+Failure/Error: __send__(method, file)
+
+LoadError:
+  cannot load such file -- /Users/demiansims/Development/Flatiron/MOD_2/rails-form_tag-readme-nyc-web-102918/include
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/configuration.rb:2034:in `load'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/configuration.rb:2034:in `load_file_handling_errors'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/configuration.rb:1560:in `block in load_spec_files'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/configuration.rb:1558:in `each'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/configuration.rb:1558:in `load_spec_files'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/runner.rb:98:in `setup'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/runner.rb:86:in `run'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/runner.rb:71:in `run'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/runner.rb:45:in `invoke'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/exe/rspec:4:in `<top (required)>'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/bin/rspec:23:in `load'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/bin/rspec:23:in `<main>'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:24:in `eval'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:24:in `<main>'
+# 
+#   Showing full backtrace because every line was filtered out.
+#   See docs for RSpec::Configuration#backtrace_exclusion_patterns and
+#   RSpec::Configuration#backtrace_inclusion_patterns for more information.
+
+An error occurred while loading ./{:focus=.
+Failure/Error: __send__(method, file)
+
+LoadError:
+  cannot load such file -- /Users/demiansims/Development/Flatiron/MOD_2/rails-form_tag-readme-nyc-web-102918/{:focus=
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/configuration.rb:2034:in `load'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/configuration.rb:2034:in `load_file_handling_errors'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/configuration.rb:1560:in `block in load_spec_files'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/configuration.rb:1558:in `each'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/configuration.rb:1558:in `load_spec_files'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/runner.rb:98:in `setup'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/runner.rb:86:in `run'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/runner.rb:71:in `run'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/lib/rspec/core/runner.rb:45:in `invoke'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/gems/rspec-core-3.8.0/exe/rspec:4:in `<top (required)>'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/bin/rspec:23:in `load'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/bin/rspec:23:in `<main>'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:24:in `eval'
+# /Users/demiansims/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:24:in `<main>'
+# 
+#   Showing full backtrace because every line was filtered out.
+#   See docs for RSpec::Configuration#backtrace_exclusion_patterns and
+#   RSpec::Configuration#backtrace_inclusion_patterns for more information.
+No examples found.
+
+
+Finished in 0.00025 seconds (files took 0.15737 seconds to load)
+0 examples, 0 failures, 2 errors occurred outside of examples
+
